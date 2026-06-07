@@ -4,7 +4,7 @@
 
 🌱 Hi! I am Linzhi. 
 
-🔭 I’m currently learning MSc Computer Games Programming in Goldsmiths, University of London, and looking for intern job of Technical Artist.
+🔭 I’m currently learning MSc Computer Games Programming in Goldsmiths, University of London.
 
 📫 How to reach me: xxxfisher1215@gmail.com
 
