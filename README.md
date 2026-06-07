@@ -1,4 +1,13 @@
-## Hi there 👋
+# Welcome to my github profile😸
+
+## About Me
+
+🌱 Hi! I am Linzhi. 
+
+🔭 I’m currently learning MSc Computer Games Programming in Goldsmiths, University of London, and looking for intern job of Technical Artist.
+
+📫 How to reach me: xxxfisher1215@gmail.com
+
 
 <!--
 **XXXfisher/XXXfisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
